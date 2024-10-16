@@ -28,7 +28,7 @@
   margin-bottom: 30px;
 }
 
-#bo {
+#bo1 {
   border-width: 5px;
   border-color: orange;
   border-radius: 7px;
@@ -37,6 +37,17 @@
   padding-top: 30px;
   padding-bottom: 10px;
   margin-right: 10px;
+}
+
+#bo2 {
+  border-width: 5px;
+  border-color: orange;
+  border-radius: 7px;
+  border-style: solid;
+  box-shadow: 0 3px 12px 1px gray;
+  padding-top: 30px;
+  padding-bottom: 10px;
+  margin-left: 10px;
 }
 
 #bonuses {
@@ -117,7 +128,7 @@
 
 #vsl {
   justify-content: center;
-  max-width: 500px;
+  max-width: 900px;
   margin-top: 70px;
   border-radius: 10px;
   box-shadow: 0 3px 12px 1px gray;
@@ -197,3 +208,4 @@
     margin-right: auto;
   }
 }
+
