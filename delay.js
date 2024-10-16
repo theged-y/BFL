@@ -6,5 +6,5 @@ document.addEventListener("DOMContentLoaded", function () {
 
 function clickBank() {
   window.location.href =
-    "https://torchged.pay.clickbank.net/?cbitems=4&cbfid=57413";
+    "https://kindledged.pay.clickbank.net/?cbitems=8&cbfid=57255";
 }
